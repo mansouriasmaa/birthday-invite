@@ -1,2 +1,3 @@
 # birthday-invite
-"A basic HTML project for creating a birthday invitation webpage."
+
+This is a simple HTML practice project where I created a basic webpage for a birthday invitation.
